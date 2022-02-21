@@ -158,8 +158,10 @@ function printMessageBody($email, $purifier) {
         <p class="lead ">
             <!-- Your disposable mailbox is ready. -->
         </p>
-        <!--iframe data-aa='1916303' src='//ad.a-ads.com/1916303?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe  btn btn-outline-light     -->
-         <div class="row justify-content-between"></div>
+        <!--iframe data-aa='1916303' src='//ad.a-ads.com/1916303?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>  btn btn-outline-light     -->
+         <div class="row justify-content-between">
+         <iframe data-aa='1916303' src='//ad.a-ads.com/1916303?size=728x90' style='width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe> 
+         </div>
 
         <div class="row justify-content-between" id="address-box-normal">
 
